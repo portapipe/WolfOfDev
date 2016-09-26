@@ -12,7 +12,21 @@
       }
     },
     "php" : {
-    
+      "HighFive Framework": {
+        "description": "HighFive Framework is a modular library of essentials tools. It's Expandable easily and by anyone, even you!",
+        "url": "http://highfive.italianpixel.com",
+        "docs": "http://highfive.italianpixel.com/docs",
+        "download": "https://github.com/portapipe/HighFive-Framework/archive/master.zip",
+        "tags": "framework,useful tools"
+      },
+      "GroceryCrud": {
+        "url": "http://www.grocerycrud.com",
+        "download": "http://www.grocerycrud.com/downloads",
+        "image": "https://d328ce9sgcu5lp.cloudfront.net/assets/themes/responsive/images/logo.png",
+        "docs": "http://www.grocerycrud.com/documentation",
+        "description": "Grocery CRUD is an open source library that makes a developer's life easier. Few simple lines of code and you can create a full stable CRUD with nice views. A completely automatic system that even a newbie in PHP can work with!",
+        "tags": "crud,content manager,admin panel"
+      }
     },
     "javascript" : {
     
