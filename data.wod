@@ -25,7 +25,7 @@
         "image": "https://d328ce9sgcu5lp.cloudfront.net/assets/themes/responsive/images/logo.png",
         "docs": "http://www.grocerycrud.com/documentation",
         "description": "Grocery CRUD is an open source library that makes a developer's life easier. Few simple lines of code and you can create a full stable CRUD with nice views. A completely automatic system that even a newbie in PHP can work with!",
-        "tags": "crud,content manager,admin panel"
+        "tags": "crud,content manager,admin panel,framework,frameworks"
       }
     },
     "javascript" : {
