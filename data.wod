@@ -1,0 +1,28 @@
+{
+  "web" : {
+    "html": {
+      "HTML.it" : {
+        "url": "http://html.it",
+        "docs": "",
+        "wiki": "",
+        "download": ""
+      },
+      "html5" : {
+        "url": "http://html5.com"
+      }
+    },
+    "php" : {
+    
+    },
+    "javascript" : {
+    
+    }
+  },
+  "mobile": {
+  
+  },
+  "desktop": {
+  
+  }
+  
+}
