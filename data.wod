@@ -1,5 +1,5 @@
 {
-  "web" : {
+  "Web" : {
     "html": {
       "HTML.it" : {
         "url": "http://html.it",
@@ -18,10 +18,13 @@
     
     }
   },
-  "mobile": {
+  "Mobile": {
   
   },
-  "desktop": {
+  "Desktop": {
+  
+  },
+  "Games": {
   
   }
   
