@@ -52,7 +52,7 @@
         "docs": "https://docs.unity3d.com/Manual/index.html",
         "wiki": "http://wiki.unity3d.com/index.php/Main_Page"
       }
-    }
+    },
     "Minecraft": {
       "Spigot": {
         "description": "The complete way to create new stuff in minecraft servers",
