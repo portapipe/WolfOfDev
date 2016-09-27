@@ -1,13 +1,17 @@
 {
   "Web" : {
     "html": {
-      "HTML.it" : {
-        "website": "http://html.it",
-        "docs": "",
-        "download": ""
+      "HTML Validator" : {
+        "description": "Validate your HTML page, fix any error and make sure anyone will see what you see.",
+        "website": "https://validator.w3.org",
+        "image": "https://validator.w3.org/images/w3c.png",
+        "tags": "validator,html"
       },
-      "html5" : {
-        "website": "http://html5.com"
+      "SEO Check by FOUND" : {
+        "description": "A free an useful tool to check the SEO status of a webpage",
+        "image": "https://www.found.co.uk/seo-tool/images/found-seo-tool-logo.png",
+        "website": "https://www.found.co.uk/seo-tool/",
+        "tags": "seo,html"
       }
     },
     "php" : {
@@ -29,10 +33,26 @@
     },
     "javascript" : {
     
+    },
+    "css": {
+      "MaterialUI": {
+        "description": "Different color types and icons (even unicode) Material-Style",
+        "website": "https://www.materialui.co",
+        "image": "https://www.materialui.co/img/material_ui_logo.png",
+        "tags": "material,css"
+      }
     }
   },
   "Mobile": {
-  
+    "Cross-Platform": {
+      "Ionic Framework": {
+        "description": "Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components and tools for building highly interactive native and progressive web apps. Built with Sass, optimized for AngularJS.",
+        "website": "http://ionicframework.com",
+        "image": "https://s3.amazonaws.com/ionic-forum-static/forum-logo.png",
+        "docs": "http://ionicframework.com/docs/",
+        "tags": "html,css,sass,javascript,ios,android,cross-platform"
+      },
+    },
   },
   "Desktop": {
     "Cross-Platform": {
@@ -40,6 +60,15 @@
         "description": "Create cross-platform apps with HTML, CSS and Javascript!",
         "website": "http://electron.atom.io",
         "tags": "mac,win,windows,linux,cross-platform"
+      },
+    },
+  },
+  "File-Related": {
+    "YAML/JSON": {
+      "Yaml Online Parser": {
+        "description": "Check the validity and integrity of a YAML or JSON strings on-the-fly!",
+        "website": "http://yaml-online-parser.appspot.com",
+        "tags": "yaml,json,python,validation",
       }
     }
   },
@@ -50,7 +79,8 @@
         "website": "https://unity3d.com",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Official_unity_logo.png/100px-Official_unity_logo.png",
         "docs": "https://docs.unity3d.com/Manual/index.html",
-        "wiki": "http://wiki.unity3d.com/index.php/Main_Page"
+        "wiki": "http://wiki.unity3d.com/index.php/Main_Page",
+        "tags": "ios,android,2d,3d,game"
       }
     },
     "Minecraft": {
