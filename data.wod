@@ -4,7 +4,7 @@
 			"HTML Validator": {
 				"description": "Validate your HTML page, fix any error and make sure anyone will see what you see.",
 				"website": "https://validator.w3.org",
-				"image": "https://validator.w3.org/images/w3c.png",
+				"image": "https://www.w3.org/Icons/WWW/w3c_home_nb",
 				"tags": "validator,html"
 			},
 			"SEO Check by FOUND": {
@@ -64,6 +64,9 @@
 		"Cross-Platform": {
 			"Electron": {
 				"description": "Create cross-platform apps with HTML, CSS and Javascript!",
+				"docs": "http://electron.atom.io/docs/",
+				"image": "https://camo.githubusercontent.com/5dd01312b30468423cb45b582b83773f5a9019bb/687474703a2f2f656c656374726f6e2e61746f6d2e696f2f696d616765732f656c656374726f6e2d6c6f676f2e737667",
+				"download": "http://electron.atom.io/releases/",
 				"website": "http://electron.atom.io",
 				"tags": "mac,win,windows,linux,cross-platform"
 			}
