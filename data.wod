@@ -2,25 +2,24 @@
   "Web" : {
     "html": {
       "HTML.it" : {
-        "url": "http://html.it",
+        "website": "http://html.it",
         "docs": "",
-        "wiki": "",
         "download": ""
       },
       "html5" : {
-        "url": "http://html5.com"
+        "website": "http://html5.com"
       }
     },
     "php" : {
       "HighFive Framework": {
         "description": "HighFive Framework is a modular library of essentials tools. It's Expandable easily and by anyone, even you!",
-        "url": "http://highfive.italianpixel.com",
+        "website": "http://highfive.italianpixel.com",
         "docs": "http://highfive.italianpixel.com/docs",
         "download": "https://github.com/portapipe/HighFive-Framework/archive/master.zip",
         "tags": "framework,useful tools"
       },
       "GroceryCrud": {
-        "url": "http://www.grocerycrud.com",
+        "website": "http://www.grocerycrud.com",
         "download": "http://www.grocerycrud.com/downloads",
         "image": "https://d328ce9sgcu5lp.cloudfront.net/assets/themes/responsive/images/logo.png",
         "docs": "http://www.grocerycrud.com/documentation",
@@ -36,10 +35,33 @@
   
   },
   "Desktop": {
-  
+    "Cross-Platform": {
+      "Electron": {
+        "description": "Create cross-platform apps with HTML, CSS and Javascript!",
+        "website": "http://electron.atom.io",
+        "tags": "mac,win,windows,linux,cross-platform"
+      }
+    }
   },
   "Games": {
-  
+    "Software": {
+      "Unity": {
+        "description": "Unity gives you everything you need to realize your creative vision fast, and move ahead. 2D, 3D, free for everyone",
+        "website": "https://unity3d.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Official_unity_logo.png/100px-Official_unity_logo.png",
+        "docs": "https://docs.unity3d.com/Manual/index.html",
+        "wiki": "http://wiki.unity3d.com/index.php/Main_Page"
+      }
+    }
+    "Minecraft": {
+      "Spigot": {
+        "description": "The complete way to create new stuff in minecraft servers",
+        "website": "http://spigotmc.org",
+        "image": "https://static.spigotmc.org/img/spigot.png",
+        "docs": "https://hub.spigotmc.org/javadocs/spigot/",
+        "tags": "minecraft,spigot,java,javadocs"
+      }
+    }
   }
   
 }
