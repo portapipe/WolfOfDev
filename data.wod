@@ -57,6 +57,11 @@
 				"image": "https://s3.amazonaws.com/ionic-forum-static/forum-logo.png",
 				"docs": "http://ionicframework.com/docs/",
 				"tags": "html,css,sass,javascript,ios,android,cross-platform"
+			},
+			"Icon Generator for Cordova Apps": {
+				"description": "An online tool that create icons and splash screens for your Cordova app in a click",
+				"website": "http://pgicons.abiro.com",
+				"tags": "image,ionic,monaca,cordova,phonegap"
 			}
 		}
 	},
