@@ -35,7 +35,7 @@
 				"download": "https://github.com/trippo/ResponsiveFilemanager/archive/master.zip",
 				"image": "http://www.responsivefilemanager.com/images/logo.png",
 				"docs": "http://www.responsivefilemanager.com/index.php#documentation-section",
-				"description": "Responsive FileManager 9.11.0 is a free open-source file manager and image manager made with the jQuery library, CSS3, PHP and HTML5 that offers a nice and elegant way to upload and insert files, images and videos.",
+				"description": "Responsive FileManager is a free open-source file manager and image manager made with the jQuery library, CSS3, PHP and HTML5 that offers a nice and elegant way to upload and insert files, images and videos.",
 				"tags": "file,manager,file manager,filemanager,ckeditor,tinymce,wysiwyg"
 			}
 		},
