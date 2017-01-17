@@ -1,45 +1,45 @@
 {
- "Web": {
-   "html": {
-   "HTML Validator": {
-    "description": "Validate your HTML page, fix any error and make sure anyone will see what you see.",
-    "website": "https://validator.w3.org",
-    "image": "https://www.w3.org/Icons/WWW/w3c_home_nb",
-    "tags": "validator,html"
-   },
-   "SEO Check by FOUND": {
-    "description": "A free an useful tool to check the SEO status of a webpage",
-    "image": "https://www.found.co.uk/seo-tool/images/found-seo-tool-logo.png",
-    "website": "https://www.found.co.uk/seo-tool/",
-    "tags": "seo,html"
-   }
-  },
-  "php": {
-   "HighFive Framework": {
-    "description": "HighFive Framework is a modular library of essentials tools. It's Expandable easily and by anyone, even you!",
-    "website": "http://highfive.italianpixel.com",
-    "docs": "http://highfive.italianpixel.com/docs",
-    "download": "https://github.com/portapipe/HighFive-Framework/archive/master.zip",
-    "tags": "framework,useful tools"
-   },
-   "GroceryCrud": {
-    "website": "http://www.grocerycrud.com",
-    "download": "http://www.grocerycrud.com/downloads",
-    "image": "https://d328ce9sgcu5lp.cloudfront.net/assets/themes/responsive/images/logo.png",
-    "docs": "http://www.grocerycrud.com/documentation",
-    "description": "Grocery CRUD is an open source library that makes a developer's life easier. Few simple lines of code and you can create a full stable CRUD with nice views. A completely automatic system that even a newbie in PHP can work with!",
-    "tags": "crud,content manager,admin panel,framework,frameworks"
-   },
-   "File Manager": {
-    "website": "http://www.responsivefilemanager.com/index.php",
-    "download": "https://github.com/trippo/ResponsiveFilemanager/archive/master.zip",
-    "image": "http://www.responsivefilemanager.com/images/logo.png",
-    "docs": "http://www.responsivefilemanager.com/index.php#documentation-section",
-    "description": "Responsive FileManager 9.11.0 is a free open-source file manager and image manager made with the jQuery library, CSS3, PHP and HTML5 that offers a nice and elegant way to upload and insert files, images and videos.",
-    "tags": "file,manager,file manager,filemanager,ckeditor,tinymce,wysiwyg"
-   }
-  },
-  "javascript": {
+	"Web": {
+ 		"html": {
+			"HTML Validator": {
+				"description": "Validate your HTML page, fix any error and make sure anyone will see what you see.",
+				"website": "https://validator.w3.org",
+				"image": "https://www.w3.org/Icons/WWW/w3c_home_nb",
+				"tags": "validator,html"
+			},
+			"SEO Check by FOUND": {
+				"description": "A free an useful tool to check the SEO status of a webpage",
+				"image": "https://www.found.co.uk/seo-tool/images/found-seo-tool-logo.png",
+				"website": "https://www.found.co.uk/seo-tool/",
+				"tags": "seo,html"
+			}
+		},
+		"php": {
+			"HighFive Framework": {
+				"description": "HighFive Framework is a modular library of essentials tools. It's Expandable easily and by anyone, even you!",
+				"website": "http://highfive.italianpixel.com",
+				"docs": "http://highfive.italianpixel.com/docs",
+				"download": "https://github.com/portapipe/HighFive-Framework/archive/master.zip",
+				"tags": "framework,useful tools"
+			},
+			"GroceryCrud": {
+				"website": "http://www.grocerycrud.com",
+				"download": "http://www.grocerycrud.com/downloads",
+				"image": "https://d328ce9sgcu5lp.cloudfront.net/assets/themes/responsive/images/logo.png",
+				"docs": "http://www.grocerycrud.com/documentation",
+				"description": "Grocery CRUD is an open source library that makes a developer's life easier. Few simple lines of code and you can create a full stable CRUD with nice views. A completely automatic system that even a newbie in PHP can work with!",
+				"tags": "crud,content manager,admin panel,framework,frameworks"
+			},
+			"File Manager": {
+				"website": "http://www.responsivefilemanager.com/index.php",
+				"download": "https://github.com/trippo/ResponsiveFilemanager/archive/master.zip",
+				"image": "http://www.responsivefilemanager.com/images/logo.png",
+				"docs": "http://www.responsivefilemanager.com/index.php#documentation-section",
+				"description": "Responsive FileManager 9.11.0 is a free open-source file manager and image manager made with the jQuery library, CSS3, PHP and HTML5 that offers a nice and elegant way to upload and insert files, images and videos.",
+				"tags": "file,manager,file manager,filemanager,ckeditor,tinymce,wysiwyg"
+			}
+		},
+		"javascript": {
       "AngularJS": {
         "description": "AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.",
         "image": "https://angular.io/resources/images/logos/angular2/angular.svg",
@@ -47,80 +47,80 @@
         "download": "https://angularjs.org",
         "wiki": "https://github.com/angular/angular.js/wiki"
       }
-  },
-  "css": {
-   "MaterialUI": {
-    "description": "Different color types and icons (even unicode) Material-Style",
-    "website": "https://www.materialui.co",
-    "image": "https://www.materialui.co/img/material_ui_logo.png",
-    "tags": "material,css"
-   }
-  }
- },
- "Mobile": {
-  "Cross-Platform": {
-   "Ionic Framework": {
-    "description": "Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components and tools for building highly interactive native and progressive web apps. Built with Sass, optimized for AngularJS.",
-    "website": "http://ionicframework.com",
-    "image": "https://s3.amazonaws.com/ionic-forum-static/forum-logo.png",
-    "docs": "http://ionicframework.com/docs/",
-    "tags": "html,css,sass,javascript,ios,android,cross-platform"
-   },
-   "Icon Generator for Cordova Apps": {
-    "description": "An online tool that create icons and splash screens for your Cordova app in a click",
-    "website": "http://pgicons.abiro.com",
-    "tags": "image,ionic,monaca,cordova,phonegap"
-   }
-  }
- },
- "Desktop": {
-  "Cross-Platform": {
-   "Electron": {
-    "description": "Create cross-platform apps with HTML, CSS and Javascript!",
-    "docs": "http://electron.atom.io/docs/",
-    "image": "https://camo.githubusercontent.com/5dd01312b30468423cb45b582b83773f5a9019bb/687474703a2f2f656c656374726f6e2e61746f6d2e696f2f696d616765732f656c656374726f6e2d6c6f676f2e737667",
-    "download": "http://electron.atom.io/releases/",
-    "website": "http://electron.atom.io",
-    "tags": "mac,win,windows,linux,cross-platform"
-   }
-  }
- },
- "File-Related": {
-  "YAML": {
-   "Yaml Online Parser": {
-    "description": "Check the validity and integrity of YAML strings on-the-fly!",
-    "website": "http://yaml-online-parser.appspot.com",
-    "tags": "yaml,python,validate,validation"
-   }
-  },
+		},
+		"css": {
+			"MaterialUI": {
+				"description": "Different color types and icons (even unicode) Material-Style",
+				"website": "https://www.materialui.co",
+				"image": "https://www.materialui.co/img/material_ui_logo.png",
+				"tags": "material,css"
+			}
+		}
+	},
+	"Mobile": {
+		"Cross-Platform": {
+			"Ionic Framework": {
+				"description": "Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components and tools for building highly interactive native and progressive web apps. Built with Sass, optimized for AngularJS.",
+				"website": "http://ionicframework.com",
+				"image": "https://s3.amazonaws.com/ionic-forum-static/forum-logo.png",
+				"docs": "http://ionicframework.com/docs/",
+				"tags": "html,css,sass,javascript,ios,android,cross-platform"
+			},
+			"Icon Generator for Cordova Apps": {
+				"description": "An online tool that create icons and splash screens for your Cordova app in a click",
+				"website": "http://pgicons.abiro.com",
+				"tags": "image,ionic,monaca,cordova,phonegap"
+			}
+		}
+	},
+	"Desktop": {
+		"Cross-Platform": {
+			"Electron": {
+				"description": "Create cross-platform apps with HTML, CSS and Javascript!",
+				"docs": "http://electron.atom.io/docs/",
+				"image": "https://camo.githubusercontent.com/5dd01312b30468423cb45b582b83773f5a9019bb/687474703a2f2f656c656374726f6e2e61746f6d2e696f2f696d616765732f656c656374726f6e2d6c6f676f2e737667",
+				"download": "http://electron.atom.io/releases/",
+				"website": "http://electron.atom.io",
+				"tags": "mac,win,windows,linux,cross-platform"
+			}
+		}
+	},
+	"File-Related": {
+		"YAML": {
+			"Yaml Online Parser": {
+				"description": "Check the validity and integrity of YAML strings on-the-fly!",
+				"website": "http://yaml-online-parser.appspot.com",
+				"tags": "yaml,python,validate,validation"
+			}
+		},
     "JSON": {
-   "JSON Lint": {
-    "description": "Check the validity and integrity of JSON strings on-the-fly!",
-    "website": "http://jsonlint.com",
-    "tags": "json,validate,validation"
-   }
-  }
- },
- "Games": {
-  "Software": {
-   "Unity": {
-    "description": "Unity gives you everything you need to realize your creative vision fast, and move ahead. 2D, 3D, free for everyone",
-    "website": "https://unity3d.com",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Official_unity_logo.png/100px-Official_unity_logo.png",
-    "docs": "https://docs.unity3d.com/Manual/index.html",
-    "wiki": "http://wiki.unity3d.com/index.php/Main_Page",
-    "tags": "ios,android,2d,3d,game"
-   }
-  },
-  "Minecraft": {
-   "Spigot": {
-    "description": "The complete way to create new stuff in minecraft servers",
-    "website": "http://spigotmc.org",
-    "image": "https://static.spigotmc.org/img/spigot.png",
-    "docs": "https://hub.spigotmc.org/javadocs/spigot/",
-    "tags": "minecraft,spigot,java,javadocs"
-   }
-  }
- }
+			"JSON Lint": {
+				"description": "Check the validity and integrity of JSON strings on-the-fly!",
+				"website": "http://jsonlint.com",
+				"tags": "json,validate,validation"
+			}
+		}
+	},
+	"Games": {
+		"Software": {
+			"Unity": {
+				"description": "Unity gives you everything you need to realize your creative vision fast, and move ahead. 2D, 3D, free for everyone",
+				"website": "https://unity3d.com",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Official_unity_logo.png/100px-Official_unity_logo.png",
+				"docs": "https://docs.unity3d.com/Manual/index.html",
+				"wiki": "http://wiki.unity3d.com/index.php/Main_Page",
+				"tags": "ios,android,2d,3d,game"
+			}
+		},
+		"Minecraft": {
+			"Spigot": {
+				"description": "The complete way to create new stuff in minecraft servers",
+				"website": "http://spigotmc.org",
+				"image": "https://static.spigotmc.org/img/spigot.png",
+				"docs": "https://hub.spigotmc.org/javadocs/spigot/",
+				"tags": "minecraft,spigot,java,javadocs"
+			}
+		}
+	}
 
 }
